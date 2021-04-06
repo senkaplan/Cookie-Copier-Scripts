@@ -4,6 +4,8 @@
 // @description  Copy cookies to the clipboard as a stringified json.
 // @author       Sen(senkumar.v@kaplan.com)
 // @match        http://*/*
+// @match        https://*/*
+// @run-at       context-menu
 // @grant        none
 // ==/UserScript==
 
