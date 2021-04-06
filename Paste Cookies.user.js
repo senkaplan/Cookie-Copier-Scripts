@@ -4,6 +4,8 @@
 // @description  Copy cookie from clipboard to the document
 // @author       Sen(senkumar.v@kaplan.com)
 // @match        http://*/*
+// @match        https://*/*
+// @run-at       context-menu
 // @grant        none
 // ==/UserScript==
 
